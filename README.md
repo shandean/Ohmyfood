@@ -37,11 +37,11 @@
 
 <h2>This Mock-Up for Home page</h2>
 
-![Homepage](images\maquettes\Homepage.png)
+![Home page](images\maquettes\Homepage.png)
  
 <h2>This Mock-up for menus page</h2>
 
-![MenuPages](images\maquettes\Menu.png)
+![Menu pages](https://github.com/shandean/Ohmyfood/blob/637ca553f404db134d9b81bea2647b85b4fb1d50/images/maquettes/Menu.png)
 
 <h2>Animation</h2>
 
