@@ -37,7 +37,7 @@
 
 <h2>This Mock-Up for Home page</h2>
 
-![Home page](images\maquettes\Homepage.png)
+![Home page](https://github.com/shandean/Ohmyfood/blob/0c2f9b10cb35e5f41b8faa68e7991bd84b6bd67f/images/maquettes/Homepage.png)
  
 <h2>This Mock-up for menus page</h2>
 
