@@ -103,14 +103,13 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: -8em;
+        gap:0.8em;
     }
     .menu__card{
         width: 20em;
         font-size: small;
     }
     .menu__subtitle {
-       gap: -5em;
        width: 19em;
     }
     .menu__button{
@@ -200,8 +199,6 @@
             justify-content: center;
             gap: 10em;
             margin-right: 5em;
-          
-           
         }
     }
 
